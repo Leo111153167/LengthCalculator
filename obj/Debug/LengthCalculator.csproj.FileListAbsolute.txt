@@ -1,0 +1,11 @@
+C:\Users\linmm\Desktop\LengthCalculator\bin\Debug\LengthCalculator.exe.config
+C:\Users\linmm\Desktop\LengthCalculator\bin\Debug\LengthCalculator.exe
+C:\Users\linmm\Desktop\LengthCalculator\bin\Debug\LengthCalculator.pdb
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.csproj.AssemblyReference.cache
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.Form1.resources
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.Properties.Resources.resources
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.csproj.GenerateResource.cache
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.csproj.CoreCompileInputs.cache
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.exe
+C:\Users\linmm\Desktop\LengthCalculator\obj\Debug\LengthCalculator.pdb
